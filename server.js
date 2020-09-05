@@ -1,2 +1,2 @@
 //Oficial Key
-let oficialKey = "12345678";
+let oficialKey = "11223344";
