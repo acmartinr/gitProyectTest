@@ -6,3 +6,4 @@ var serverPort = 8000;
 var server7 = 5050;
 var aux = 5;
 var auxMartin2 = 3;
+var martin2 = 2;
