@@ -7,3 +7,4 @@ var server7 = 5050;
 var aux = 5;
 var auxMartin2 = 3;
 var martin2 = 2;
+var eli3 = 4;
